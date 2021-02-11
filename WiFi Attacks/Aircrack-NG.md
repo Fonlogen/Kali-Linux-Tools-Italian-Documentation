@@ -27,4 +27,4 @@ Terminale 2 (Aireplay):
 > $ aireplay-ng -0 [numero attacchi] -a [bssid] [nome interfaccia]
 
 4. **Crackare il file .CAP contentente l'handshake tramite Aircrack-NG e la wordlist.txt scelta**
-> $ aircrack-ng -a 2 -b [bssid> -w [worldlist.txt] [file .cap]
+> $ aircrack-ng -a 2 -b [bssid] -w [worldlist.txt] [file .cap]
