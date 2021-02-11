@@ -6,4 +6,4 @@ Le guide sono in continuo aggiornamento e verranno aggiunte ogni giono di nuove.
 #### [BlackEye - Tool di Phishing](https://github.com/Fonlogen/Kali-Linux-Tools-Italian-Documentation/blob/master/Social%20Engineering/BlackEye.md) / [[PDF] BlackEye - Tool di Phishing](https://github.com/Fonlogen/Kali-Linux-Tools-Italian-Documentation/blob/master/Social%20Engineering/PDF/BlackEye.pdf)
 
 ## Attacchi Wi-Fi
-**Coming soon**
+#### [Aircrack-NG - Attacco WPA2](https://github.com/Fonlogen/Kali-Linux-Tools-Italian-Documentation/blob/master/WiFi%20Attacks/Aircrack-NG.md) / [[PDF] Aircrack-NG - Attacco WPA2](https://github.com/Fonlogen/Kali-Linux-Tools-Italian-Documentation/blob/master/WiFi%20Attacks/PDF/Aircrack-NG.pdf)
