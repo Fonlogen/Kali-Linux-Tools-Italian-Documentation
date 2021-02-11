@@ -29,4 +29,4 @@ Lo script verrà avviato e comparirà una schermata (a terminale) con le varie p
 Per non dare nell’occhio ci basterà camuffare il link con un Url Shortener online ed inviare quel link alla vittima.
 **IMPORTANTE!** Se si lavora su un ambiente virtualizzato (VMWare / VirtualBox) è necessario DISATTIVARE la protezione FireWall di Windows, altrimenti le connessioni non saranno consentite.
 
-**QUESTO DOCUMENTO E' DISPONIBILE ANCHE IN VERSIONE PDF. [CLICCA QUI PER VISUALIZZARLO](https://github.com/Fonlogen/Kali-Linux-Tools-Italian-Documentation/blob/master/Social%20Engineering/PDF/blackeye.pdf)**
+**QUESTO DOCUMENTO E' DISPONIBILE ANCHE IN VERSIONE PDF. [CLICCA QUI PER VISUALIZZARLO](https://github.com/Fonlogen/Kali-Linux-Tools-Italian-Documentation/blob/master/Social%20Engineering/PDF/BlackEye.pdf)**
