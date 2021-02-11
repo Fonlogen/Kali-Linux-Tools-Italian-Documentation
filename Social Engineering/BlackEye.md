@@ -23,6 +23,10 @@ Fatto ciò possiamo finalmente avviare BlackEye. Chiudiamo il terminale attuale 
 ![Blackeye Main Menu](https://github.com/Fonlogen/Kali-Linux-Tools-Italian-Documentation/blob/master/Social%20Engineering/Resources/blackeye-4.png)
 
 Lo script verrà avviato e comparirà una schermata (a terminale) con le varie pagine web già pre-create. Selezioniamo la pagina che vogliamo e entro 15 secondi circa ci verrà fornito il link da inviare. Nel caso il link non dovesse apparire bisognerà fare un passaggio aggiuntivo. Dovremmo aprire il nostro browser web e recarci all’URL `127.0.0.1:4040/inspect/http`. Una volta caricato ci apparirà una pagina contenente 2 URL i quali possiamo scegliere quale dei 2 inviare alla vittima.
+
 ![Ngrok configuration page](https://github.com/Fonlogen/Kali-Linux-Tools-Italian-Documentation/blob/master/Social%20Engineering/Resources/blackeye-5.png)
+
 Per non dare nell’occhio ci basterà camuffare il link con un Url Shortener online ed inviare quel link alla vittima.
 **IMPORTANTE!** Se si lavora su un ambiente virtualizzato (VMWare / VirtualBox) è necessario DISATTIVARE la protezione FireWall di Windows, altrimenti le connessioni non saranno consentite.
+
+**QUESTO DOCUMENTO E' DISPONIBILE ANCHE IN VERSIONE PDF. [CLICCA QUI PER VISUALIZZARLO](https://github.com/Fonlogen/Kali-Linux-Tools-Italian-Documentation/blob/master/Social%20Engineering/PDF/blackeye.pdf)**
