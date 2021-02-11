@@ -12,6 +12,7 @@
 1. **Abilitare la modalità monitor sulla scheda di rete**
 
 > $ airmon-ng list
+
 > $ airmon-ng start [nome interfaccia]
 
 2. **Scansionare le reti disponibili con Airodump-NG**
